@@ -22,9 +22,6 @@ class A2H {
     const iOS = !!navigator.platform && /iPad|iPhone|iPod/.test(navigator.platform)
     const isStandalone = (window.navigator.standalone === false)
 
-    // iOS = true
-    // isStandalone = true
-
     if (iOS && isStandalone) return true
 
     return false
