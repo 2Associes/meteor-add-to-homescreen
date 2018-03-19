@@ -1,8 +1,8 @@
 Package.describe({
   name: 'a2h',
-  version: '0.0.1',
+  version: '1.0.0',
   summary: 'A basic, client side "Add to Home Screen" solution for iOS devices.',
-  git: '',
+  git: 'https://github.com/2Associes/meteor-add-to-homescreen',
   documentation: 'README.md'
 })
 
