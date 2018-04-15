@@ -1,6 +1,6 @@
 Package.describe({
   name: '2associes:a2h',
-  version: '1.0.1',
+  version: '1.0.2',
   summary: 'A basic iOS devices "Add to Home Screen" solution for Meteor PWA projects.',
   git: 'https://github.com/2Associes/meteor-add-to-homescreen',
   documentation: 'README.md'
