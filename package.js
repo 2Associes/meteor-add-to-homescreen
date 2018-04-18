@@ -17,10 +17,10 @@ Package.onUse((api) => {
   ], 'client')
 
   api.addFiles([
-    'client/a2h.html',
-    'client/a2h.scss',
-    'client/a2h.js',
-    'client/body.html',
+    'templates/a2h.html',
+    'templates/a2h.scss',
+    'templates/a2h.js',
+    'templates/body.html',
     'a2h.js'
   ], 'client')
 
