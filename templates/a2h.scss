@@ -8,6 +8,7 @@
   text-align: center;
   background: white;
   border-bottom: solid 1px #E3E1DD;
+  z-index: 9999;
 
   &.show {
     display: block;
