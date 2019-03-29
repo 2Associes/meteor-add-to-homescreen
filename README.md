@@ -2,11 +2,11 @@
 A basic iOS devices "Add to Home Screen" solution for Meteor PWA projects.
 
 ## Contents
-1. Installation
-2. Basic Usage
-3. Customization
-4. Authors
-5. License
+1. [Installation](#installation)
+2. [Basic Usage](#basic-usage)
+3. [Customization](#customization)
+4. [Authors](#authors)
+5. [License](#license)
 
 ### Installation
 To get this package into your app, run the following command from within your project's directory:
